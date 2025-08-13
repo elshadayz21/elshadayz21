@@ -29,7 +29,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elshadayz21&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=elshadayz21&show_icons=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=elshadayz21&show_icons=true&locale=en" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elshadayz21" alt="GitHub Streak" />
  
 </p>
