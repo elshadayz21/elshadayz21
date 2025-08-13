@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elshadayz21)](https://git.io/streak-stats)
 <!--
 **elshadayz21/elshadayz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elshadayz21)](https://git.io/streak-stats)
+
