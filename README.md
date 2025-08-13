@@ -34,9 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elshadayz21&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=elshadayz21&show_icons=true&locale=en" alt="GitHub Stats" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elshadayz21" alt="GitHub Streak" /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=elshadayz21)](https://git.io/streak-stats)
+ 
 </p>
-
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=elshadayz21)](https://git.io/streak-stats)
 <!--
 **elshadayz21/elshadayz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
