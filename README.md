@@ -2,9 +2,6 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
-
-
-
 ### 🛠️ Languages & Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -36,7 +33,10 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elshadayz21" alt="GitHub Streak" /> -->
  
 </p>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=elshadayz21)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elshadayz21)](https://git.io/streak-stats)
+
+ 
 <!--
 **elshadayz21/elshadayz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
